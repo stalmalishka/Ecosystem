@@ -1,0 +1,10 @@
+Resource: water, Energy: 1000.0
+Resource: soil, Energy: 100.0
+Resource: water, Energy: 1000.0
+Name: Paporotnik, Type: spore, Quantity: 120000, Energy: 1000.0
+Name: Tyger, Type: White, Quantity: 10, Energy: 1628200.0, Nutrition: CARNIVORE
+Name: violin, Type: purple, Quantity: 120000, Energy: 0.0
+Name: lion, Type: king, Quantity: 10000, Energy: 2599700.0, Nutrition: CARNIVORE
+Name: squirrel, Type: usual, Quantity: 1200, Energy: 0.0, Nutrition: HERBIVORE
+Name: mouse, Type: field, Quantity: 340000, Energy: 12000.0, Nutrition: HERBIVORE
+Name: violin, Type: white, Quantity: 119999, Energy: 5000.0

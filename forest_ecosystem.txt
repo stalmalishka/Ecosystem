@@ -1,0 +1,11 @@
+Resource: sunlight, Energy: 1000.0
+Resource: water, Energy: 1000.0
+Resource: soil, Energy: 100.0
+Name: bear, Type: brown, Quantity: 1100, Energy: 51540.0, Nutrition: CARNIVORE
+Name: squirrel, Type: usual, Quantity: 1108, Energy: 12930.0, Nutrition: HERBIVORE
+Name: grass, Type: green, Quantity: 9999998, Energy: 3120.0
+Name: oak, Type: tree, Quantity: 998, Energy: 3320.0
+Name: rabbit, Type: gray, Quantity: 5998, Energy: 14560.0, Nutrition: HERBIVORE
+Temperature: 15.0
+Humidity: 80.0
+WaterLevel: 40.0
